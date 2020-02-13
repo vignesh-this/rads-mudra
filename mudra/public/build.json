@@ -1,0 +1,12 @@
+{
+	"css/mudrastyle.min.css": [
+		"public/css/bootstrap.css",
+		"public/css/themify-icons.css",
+		"public/css/flaticon.css",
+		"public/css/vendors/fontawesome/css/all.min.css",
+		"public/css/vendors/owl-carousel/owl.carousel.min.css",
+		"public/css/vendors/animate-css/animate.css",
+		"public/css/style.css",
+		"public/css/responsive.css"
+	]
+}

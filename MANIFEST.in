@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include mudra *.css
+recursive-include mudra *.csv
+recursive-include mudra *.html
+recursive-include mudra *.ico
+recursive-include mudra *.js
+recursive-include mudra *.json
+recursive-include mudra *.md
+recursive-include mudra *.png
+recursive-include mudra *.py
+recursive-include mudra *.svg
+recursive-include mudra *.txt
+recursive-exclude mudra *.pyc
